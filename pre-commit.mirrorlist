@@ -5,5 +5,10 @@ do
   sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/rpmforge/' mirrorlist.raw > el$ver/mirrors-repoforge
   sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/extras/' mirrorlist.raw > el$ver/mirrors-repoforge-extras
   sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/testing/' mirrorlist.raw > el$ver/mirrors-repoforge-testing
+
+  sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/rpmforge/' mirrorlist.raw > el$ver/mirrors-rpmforge
+  sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/extras/' mirrorlist.raw > el$ver/mirrors-rpmforge-extras
+  sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/testing/' mirrorlist.raw > el$ver/mirrors-rpmforge-testing
 done
 git add ./el*/mirrors-repoforge{,-extras,-testing}
+git add ./el*/mirrors-rpmforge{,-extras,-testing}
