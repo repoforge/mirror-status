@@ -69,9 +69,14 @@ se http://mirror.zetup.net/repoforge/ talkedto:Fredrik.Carlsson[at]zetup.se
 tr http://mirror.vit.com.tr/mirror/repoforge/ talkedto:sinan.sunaner[at]vit.com.tr
 cn http://mirrors.esocc.com/repoforge/ talkedto:danny.ni[at]esocc.com, mirrors[at]esocc.com
 bg http://mirrors.neterra.net/repoforge/ talkedto:yyovchev[at]neterra.net, mirrors[at]neterra.net
-it http://mirror.crazynetwork.it/repoforge/ talkedto:support@crazynetwork.it
-au http://rpmforge.syd.au.glomirror.com.au/ talkedto:daniel@glovine.com.au
-mn http://mirror.datacenter.mn/repoforge/ talkedto:ulziibuyan@datacenter.gov.mn
-au http://mirror.as24220.net/pub/repoforge/ talkedto:mirrors@as24220.net
-ca http://mirror.agmn.ca/mirror/repoforge/ talkedto:kaleb.hosie@agmn.ca
-bd http://mirrors.ispros.com.bd/repoforge/ talkedto:mirrors@ispros.com.bd
+it http://mirror.crazynetwork.it/repoforge/ talkedto:support[at]crazynetwork.it
+au http://rpmforge.syd.au.glomirror.com.au/ talkedto:daniel[at]glovine.com.au
+mn http://mirror.datacenter.mn/repoforge/ talkedto:ulziibuyan[at]datacenter.gov.mn
+au http://mirror.as24220.net/pub/repoforge/ talkedto:mirrors[at]as24220.net
+ca http://mirror.agmn.ca/mirror/repoforge/ talkedto:kaleb.hosie[at]agmn.ca
+bd http://mirrors.ispros.com.bd/repoforge/ talkedto:mirrors[at]ispros.com.bd
+fr http://miroir.univ-paris13.fr/repoforge/ talkedto:mirrors[at]univ-paris13.fr
+cz http://mirror.oss.maxcdn.com/repoforge/ talkedto:dakulov[at]maxcdn.com
+au http://rpmforge.melb.au.glomirror.com.au/ talkedto:daniel[at]glovine.com.au or mirrors[at]glovine.com.au
+au http://rpmforge.syd.au.glomirror.com.au/ talkedto:daniel[at]glovine.com.au or mirrors[at]glovine.com.au
+lt http://mirror.bacloud.com/repoforge/ talkedto:albinas.vladyka[at]ist.lt
