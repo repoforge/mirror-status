@@ -49,7 +49,7 @@ vn http://mirrors.digipower.vn/repoforge/ talkedto:contact[at]digipower.vn, duch
 us http://repoforge.mirror.constant.com/ talkedto:mirrors[at]constant.com
 au http://mirror.ventraip.net.au/repoforge/ talkedto:cmarchant[at]staff.ventraip.com
 th http://mirror.siamdata.co.th/repoforge/ talkedto:apiwat[at]siamdata.co.th
-cn http://mirrors.neusoft.edu.cn/repoforge/ talkedto:sfl[at]neusoft.edu.cn
+#cn http://mirrors.neusoft.edu.cn/repoforge/ talkedto:sfl[at]neusoft.edu.cn
 be http://repoforge.cu.be/ talkedto:mirrors[at]cu.be,wim[at]godden.net
 kr http://ftp.neowiz.com/repoforge/ talkedto:ftpadm[at]neowiz.com
 ru http://repoforge.softded.ru/ talkedto:softded[at]gmail.com
