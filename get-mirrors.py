@@ -49,7 +49,7 @@ for line in lines:
   
     mname = m.group('hn')
 
-    if time.time()-age<=180*60*60:
+    if time.time()-age<=30*24*60*60:
       if verbose:
         print "Allowing mirror " + mname + " [" +  time.ctime(age) + "]"
       else:
