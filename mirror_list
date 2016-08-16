@@ -18,7 +18,7 @@ de http://mirror.atrpms.net/repoforge/ talkedto:axel.thimm[at]atrpms.net
 uk http://www.mirrorservice.org/sites/apt.sw.be/ GoogleBot
 us http://repoforge.eecs.wsu.edu/ talkedto:kusznir[at]eecs.wsu.edu
 us http://mirror.lug.udel.edu/pub/dag/ GoogleBot
-ie http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/ GoogleBot
+ie http://ftp.heanet.ie/mirrors/repoforge/ talkedto:mirrors[at]heanet.ie
 jp http://mirror.fairway.ne.jp/dag/ GoogleBot
 us http://mirror.teljet.net/repoforge/ talkedto:GoogleBot:support[at]teljet.com
 de http://ftp.tu-chemnitz.de/pub/linux/dag/ GoogleBot
