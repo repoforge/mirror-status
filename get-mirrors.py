@@ -44,7 +44,7 @@ for line in lines:
     #age = time.ctime(int(splitline[1]))
     age = int(splitline[1])
   
-    p = re.compile(r'^(f|ht)tp://(?P<hn>[^/]*)/?.*$')
+    p = re.compile(r'^(ftp|http|https)://(?P<hn>[^/]*)/?.*$')
     m = p.search(splitline[0])
   
     mname = m.group('hn')
