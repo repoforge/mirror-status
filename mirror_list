@@ -10,7 +10,6 @@ us http://mirror.hmc.edu/repoforge/ cmc[at]math.hmc.edu
 ca http://mirror.cpsc.ucalgary.ca/mirror/dag/ mirror[at]cpsc.ucalgary.ca
 fr http://mirror.ate.info/dag/ talkedto:GoogleBot:mrousseau[at]ate.info
 nl http://archive.cs.uu.nl/mirror/dag.wieers/ GoogleBot
-us http://mirror.webnx.com/dag/ talkedto:GoogleBot:dariop[at]webnx.com
 uk http://www.mirrorservice.org/sites/apt.sw.be/ GoogleBot
 us http://repoforge.eecs.wsu.edu/ talkedto:kusznir[at]eecs.wsu.edu,linux-mirror-admin[at]eecs.wsu.edu,daveanderson[at]wsu.edu
 us http://mirror.lug.udel.edu/pub/dag/ GoogleBot
@@ -64,3 +63,4 @@ ro https://mirrors.evowise.com/repoforge/ talkedto:hayden[at]evowise.com
 cn https://mirrors.tuna.tsinghua.edu.cn/repoforge/ talkedto:mirroradmin[at]tuna.tsinghua.edu.cn
 tr http://mirror.veriteknik.net.tr/repoforge/ talkedto:ckaraca[at]veriteknik.com
 us http://mirror.lstn.net/repoforge/ talkedto:logan[at]protiumit.com
+nl http://repoforge.mirror.wearetriple.com/ talkedto:S.Heemskerk[at]wearetriple.com
